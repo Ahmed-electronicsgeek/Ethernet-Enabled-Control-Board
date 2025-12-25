@@ -26,7 +26,7 @@ This project is an industrial-grade communication controller based on the **ATme
 
 ### 3. Schematic Design
 #### MCU & Industrial Serial (RS485)
-![Schematic Sheet 1](Sheet1.jpg)
+![Schematic Sheet 1](Sheet1.png)
 
 #### Ethernet, PoE & Power Systems
 ![Schematic Sheet 2](Sheet2.png)
